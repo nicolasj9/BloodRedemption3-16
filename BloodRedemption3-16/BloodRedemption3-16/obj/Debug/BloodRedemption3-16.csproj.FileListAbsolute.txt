@@ -1,0 +1,10 @@
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3-16.csprojAssemblyReference.cache
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3_16.Form1.resources
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3_16.Properties.Resources.resources
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3-16.csproj.GenerateResource.cache
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3-16.csproj.CoreCompileInputs.cache
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\bin\Debug\BloodRedemption3-16.exe.config
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\bin\Debug\BloodRedemption3-16.exe
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\bin\Debug\BloodRedemption3-16.pdb
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3-16.exe
+c:\users\someo\source\repos\BloodRedemption3-16\BloodRedemption3-16\obj\Debug\BloodRedemption3-16.pdb
